@@ -15,7 +15,7 @@ To resize an EBS volume, you have to provide the following steps:
 
 chmod +x script.sh
 
-./script.sh <size>
+./script.sh 12 // any size, 20 gb by default
   
 Final result:
  
